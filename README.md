@@ -21,4 +21,5 @@ The program displays a menu to the user and allows them to choose a transaction.
 - Basic arithmetic operations
 
 ## Author
-Student project for learning Python programming fundamentals.
+Rabapane Tentswalo Richard
+
